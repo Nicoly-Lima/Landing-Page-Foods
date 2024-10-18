@@ -15,4 +15,4 @@ Este projeto tem a criação de um site para delivery de comidas.
 
 ## **Acessar Página**
 
-Clique no link para acessar a página:
+Clique no link para acessar a página: https://nicoly-lima.github.io/Landing-Page-Foods/
